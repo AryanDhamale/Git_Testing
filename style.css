@@ -1,0 +1,15 @@
+.btn {
+    padding: 10px 15px;
+    outline: none;
+    background-color: rgba(0, 0, 255, 0.649) ;
+    color: whitesmoke;
+    font-size: 16px;
+    border: 0;
+    border-radius: 5px;
+    &:hover{
+        cursor: pointer;
+    }
+    &::after {
+        background-color: rgba(0, 0, 255, 0.500) ;
+    }
+}
