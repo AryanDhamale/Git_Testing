@@ -13,3 +13,11 @@
         background-color: rgba(0, 0, 255, 0.500) ;
     }
 }
+
+/* common  */
+.flex {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    gap: 20px;
+}
