@@ -21,3 +21,7 @@
     align-items: center;
     gap: 20px;
 }
+
+.flex-col {
+    flex-direction : column  
+}
