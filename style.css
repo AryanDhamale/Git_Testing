@@ -25,3 +25,7 @@
 .flex-col {
     flex-direction : column  
 }
+
+.gap {
+    padding : 10px 10px ;
+}
